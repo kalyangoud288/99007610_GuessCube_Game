@@ -25,5 +25,5 @@ To create a simple game that is interactive with the user, implementing object-o
 1.Laptops
 2.Mobiles
 3.Video Games
-##LOGIN
+## HOW
 1.Just create your profile and login.

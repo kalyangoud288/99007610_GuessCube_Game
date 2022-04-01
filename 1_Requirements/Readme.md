@@ -27,6 +27,9 @@ To create a simple game that is interactive with the user, implementing object-o
 3.Video Games
 ## HOW
 1.Just create your profile and login.
+# SWOT ANALYSIS
+![Circle (1)](https://user-images.githubusercontent.com/82871992/161243720-75ee7aa1-4bd4-489e-95d9-fcd838087473.png)
+
 # Requirements
 ## High level requirements
 | ID  | High level requirements |
